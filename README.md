@@ -10,7 +10,8 @@ Bem-vindo(a) ao meu portfólio! Este é um site de currículo interativo desenvo
 
 ## 💻 Visual do site
 
-![Visual do site](img/tela2.png)
+![Visual](img/tela2.png)
+
 
 
 ## 🧠 Habilidades e Tecnologias
