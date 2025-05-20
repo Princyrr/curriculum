@@ -29,8 +29,8 @@ Olá! Sou desenvolvedora web formada em **Sistemas para Internet**, com experiê
 
 - 👩‍💻 Nome: Priscila Ramonna da silva pires
 - 🌍 Localização: Recife/ PE
-- 📫 Contato: [MEu e-amil](mailto:princyrpiress@email.com)
-- 💼 LinkedIn: [linkedi](https://github.com/Princyrr)
+- 📫 Contato: [MEu E-mail](mailto:princyrpiress@email.com)
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/priscila-pires-171617128/)
 
 
 ## 🛠 Como usar este projeto
