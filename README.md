@@ -8,9 +8,10 @@ Bem-vindo(a) ao meu portfólio! Este é um site de currículo interativo desenvo
 - CSS3
 - JavaScript
 
-## 📸 Imagens do Projeto
+## 💻 Visual do site
 
-![Tela Inicial](./tela2.png)
+![Visual do site](img/tela2.png)
+
 
 ## 🧠 Habilidades e Tecnologias
 
